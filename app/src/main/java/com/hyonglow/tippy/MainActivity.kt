@@ -10,7 +10,7 @@ import android.widget.EditText
 import android.widget.SeekBar
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import com.example.tippy.R
+import com.hyonglow.tippy.R
 
 class MainActivity : AppCompatActivity(), SeekBar.OnSeekBarChangeListener {
     lateinit var etSplit: EditText
